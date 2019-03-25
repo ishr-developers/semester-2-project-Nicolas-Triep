@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IT project (RLTS)</string>
+    <string name="login">Login</string>
+    <string name="login_Openwebview">Login</string>
+    <string name="Appname">RLTS</string>
+    <string name="Texthint">Enter you name</string>
+    <string name="Buttonname">Login</string>
+    <string name="Button_name">News</string>
+
+    <string-array name="topics">
+        <item>PSN</item>
+        <item>Xbox</item>
+        <item>Windows</item>
+    </string-array>
+
+</resources>
