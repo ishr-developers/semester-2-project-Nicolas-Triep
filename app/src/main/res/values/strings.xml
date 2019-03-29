@@ -12,5 +12,6 @@
         <item>Xbox</item>
         <item>Windows</item>
     </string-array>
+    <!-- Added a string -->
 
 </resources>
