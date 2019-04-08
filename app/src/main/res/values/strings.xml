@@ -6,12 +6,16 @@
     <string name="Texthint">Enter you name</string>
     <string name="Buttonname">Login</string>
     <string name="Button_name">News</string>
+    <string name="back">Back</string>
+    <string name="Name">Players Name</string>
+    <string name="news">News</string>
+    <string name="back">Back</string>
 
     <string-array name="topics">
         <item>PSN</item>
         <item>Xbox</item>
-        <item>Windows</item>
+        <item>PC</item>
     </string-array>
-    <!-- Added a string -->
+
 
 </resources>
